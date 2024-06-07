@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/code-penz/static/css/main.7225a577.css",
+    "main.js": "/code-penz/static/js/main.9602589a.js",
+    "static/js/453.1fbdcd52.chunk.js": "/code-penz/static/js/453.1fbdcd52.chunk.js",
+    "index.html": "/code-penz/index.html",
+    "main.7225a577.css.map": "/code-penz/static/css/main.7225a577.css.map",
+    "main.9602589a.js.map": "/code-penz/static/js/main.9602589a.js.map",
+    "453.1fbdcd52.chunk.js.map": "/code-penz/static/js/453.1fbdcd52.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7225a577.css",
+    "static/js/main.9602589a.js"
+  ]
+}
